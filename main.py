@@ -15,3 +15,7 @@ def main() -> None:
     else:
         rombusz_terület: float = (e + f) / 2
         print(f'A rombusz területe: {rombusz_terület}')
+        
+
+if __name__ == "__main__":
+    main()
